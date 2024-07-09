@@ -21,7 +21,7 @@ The following modules/packages were used in this project:
 
 Laravel Framework: Provides the foundation for the application, including routing, ORM, and authentication.
 Blade Templating Engine: Allows for the creation of dynamic views using Laravel's Blade syntax.
-MySQL Database: Used for storing Todo items and their details.
+MySQL Database: Used for storing product items and their details.
 Logging: Used for log the datas like checking incoming requests and actions and passed parameters.
 Mail: Sending mails for every new task created.
 Model: Interact with our database and tables.
@@ -41,7 +41,7 @@ Downloading LAMPP will be easy for the Application deploy, since it includes Php
 
 Installation
 
-Clone the repository - git clone https://github.com/gludhayasurya/todo-app.git
+Clone the repository - git clone https://github.com/gludhayasurya/ProductApp.git
 
 Setup
 
